@@ -10,6 +10,24 @@ npm install
 npm run serve
 ```
 
+### json server
+```
+npm i json-server
+```
+```
+npm run db:server
+```
+
+
+
+
+
+
+### routers
+```
+npm install --save vue-router
+``````
+
 ### Compiles and minifies for production
 ```
 npm run build
